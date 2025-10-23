@@ -20,11 +20,11 @@ const std::vector<std::string_view> lines{
     "UTF-8 characters Ë ⑤ 三【 】┌──┐",
 };
 
-std::string_view getLineAtIdx(size_t idx) {
+std::string_view getLineAtIdx(std::size_t idx) {
     return lines[idx];
 }
 
-size_t getNumLines() {
+std::size_t getNumLines() {
     return lines.size();
 }
 
