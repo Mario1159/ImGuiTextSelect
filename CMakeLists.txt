@@ -1,4 +1,4 @@
-# Copyright 2024-2025 Aidan Sun and the ImGuiTextSelect contributors
+# Copyright 2024-2026 Aidan Sun and the ImGuiTextSelect contributors
 # SPDX-License-Identifier: MIT
 
 cmake_minimum_required(VERSION 3.15)
